@@ -43,6 +43,7 @@ Once executed, visualizations will be generated and saved in the project directo
 
 6. Customize the plot attributes such as colors, labels, and titles according to your preferences.
 
+
 ## Visualizations
 
 Box Plot
