@@ -17,9 +17,7 @@ Make sure you have the following prerequisites installed:
 
 To run the code and generate the visualizations:
 
-1. Ensure you have Python installed on your system:
-
-[Download Python](https://www.python.org/downloads/)
+1. Ensure you have Python installed on your system: [Download Python](https://www.python.org/downloads/)
 
 2. Clone this repository to your local machine, run the following command in your terminal:
 
