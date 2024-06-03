@@ -46,9 +46,11 @@ Once executed, visualizations will be generated and saved in the project directo
 
 Box Plot
 This box plot represents the distribution of gas prices across countries.
-
+[
 Bar Plot
 This bar plot visualizes the average gas prices across different countries.
+
+[Bar Plot](https://github.com/keasamani/Data-Visualization/blob/main/images.png/gas_prices(barplot).png?raw=true)
 
 Stacked Area Plot
 This plot illustrates the contribution of each country to total gas prices over time.
