@@ -59,10 +59,12 @@ This heatmap visualizes gas prices across different countries over time.
 Scatter Plot
 This plot visualizes the correlation between gas prices across different countries over time.
 
-
-## Contributions are warmly welcomed! If you'd like to enhance this project, feel free to fork the repository and submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+## Contributions are warmly welcomed! If you'd like to enhance this project, feel free to fork the repository and submit a pull request.
+
+
 
