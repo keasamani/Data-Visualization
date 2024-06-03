@@ -61,7 +61,7 @@ Scatter Plot
 This plot visualizes the correlation between gas prices across different countries over time.
 
 
-## Contributions are welcome! If you'd like to enhance this project, feel free to fork the repository and submit a pull request.
+## Contributions are warmly welcomed! If you'd like to enhance this project, feel free to fork the repository and submit a pull request.
 
 ## License
 
